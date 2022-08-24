@@ -1,2 +1,1 @@
-chika
-my first alx test
+My first readme
